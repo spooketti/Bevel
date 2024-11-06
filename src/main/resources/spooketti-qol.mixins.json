@@ -1,11 +1,12 @@
 {
-	"required": true,
-	"package": "spooketti.qol.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
+  "required": true,
+  "package": "spooketti.qol.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ExampleMixin",
+    "FurnaceFlintMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
 	}
 }

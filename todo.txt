@@ -1,0 +1,22 @@
+remove berry bush damage to players
+dog whistle (unsits dogs you previously right clicked with this from any chunk even though i dont know if this is possible codewise)
+wood can be used in the stonecutter
+some way to intuitvely make dogs immune to sweeping edge(making them just immune in general sounds kinda iffy)
+
+fletching table usage?
+zoom
+show the starudation of food when you hover over it
+villager follows emeralds
+villager babies grow up faster by giving them food
+cheaper minecarts
+mending rework (shift right click to funnel exp into bottles)
+mending / infinity bow compatibility
+netherwart block to netherwart //complete
+trash bin block?
+auto replant replenish enchant
+chest sort
+drop protection
+nether portal chat / inventory
+anvil repair
+flint and steel can light a furance for 1/4 of a coal
+domestic foxes
